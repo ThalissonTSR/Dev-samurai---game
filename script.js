@@ -128,8 +128,8 @@ function continuar(){
     posicaoBolaX = larguraCampo / 2
     posicaoBolaY = alturaCampo /2
     velocidadeBolaX = -velocidadeBolaX+1
-    velocidadeBolaY += 1.1
-    velocidadeJogador2 += 0.3
+    velocidadeBolaY += 1.3
+    velocidadeJogador2 += 0.2
     
 }
 
